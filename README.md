@@ -2,8 +2,6 @@
 This git contains repo manifests to be able to clone all source code needed to
 be able to setup a full OP-TEE developer build.
 
-Adapted to use with the Distrinet-TACOS repositories.
-
 All official OP-TEE documentation has moved to http://optee.readthedocs.io. The
 information that used to be here in this git can be found under [manifests].
 
