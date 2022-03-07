@@ -8,7 +8,7 @@
 
         <!-- OP-TEE gits -->
         <project path="optee_client"        name="Distrinet-TACOS/optee_client.git" />
-        <project path="optee_os"            name="Distrinet-TACOS/optee_os.git" />
+        <project path="optee_os"            name="Distrinet-TACOS/optee_os.git"          revision="a0df540206c1dec603b96fe49c7ea47c09227a4e" />
         <project path="optee_test"          name="Distrinet-TACOS/optee_test.git" />
         <project path="build"               name="OP-TEE/build.git">
                 <linkfile src="qemu.mk" dest="build/Makefile" />
